@@ -1,5 +1,1 @@
-Essential files of EJB remote client (Eclipse RCP application)
-and few needed interfaces from EJB module.
-
-This is only sample code from bigger application.
-Web module (Rails app) will be provided in separated repository.
+# Eclipse RCP + EJB client + Maven (sample code)
